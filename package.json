@@ -1,0 +1,7 @@
+{
+  "name": "tenant-maintenance-escalation-console",
+  "version": "0.1.0",
+  "private": true,
+  "description": "WordPress and property-ops control plane for tenant maintenance queues, vendor escalation, SLA posture, and service-safe review routing.",
+  "license": "AGPL-3.0-or-later"
+}
